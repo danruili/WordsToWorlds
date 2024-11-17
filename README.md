@@ -13,11 +13,11 @@ Our work utilizes Large Language Models and generative tools to automate and ref
 Employing a top-down story drafting and bottom-up asset generation approach, this framework tackles key issues such as manual intervention, interactive scene orchestration, and narrative consistency. This framework enables efficient production of interactive and consistent digital storytellings across multiple modalities, democratizing content creation and enhancing engagement.
 
 Read full paper on [MIG 2024](https://dl.acm.org/doi/10.1145/3677388.3696321).
-For more technical details, please refer to our [project page](https://danruili.github.io/wordstoworlds/).
+For more technical details, please refer to our [project page](https://danruili.github.io/WordsToWorlds/).
 
-## Code Repository
+## Code Availability
 
-We are preparing the codebase for release. Once it is ready, we will update the repository with the code and data.
+This is the website branch for the project. Please visit main branch for more information on the code repository.
 
 
 ## Cite our work
