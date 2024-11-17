@@ -6,7 +6,7 @@ Danrui Li [1*], Sam S. Sohn [1*], Sen Zhang [1*] , Che-Jui Chang [1], Mubbasir K
 [*] Equal contribution,
 [2] Roblox,
 
-![Teaser](static\images\teaser.png)
+![Teaser](https://raw.githubusercontent.com/danruili/WordsToWorlds/refs/heads/website/static/images/teaser.png)
 
 Our work utilizes Large Language Models and generative tools to automate and refine digital storytelling.
 
