@@ -6,7 +6,7 @@ Danrui Li [1*], Sam S. Sohn [1*], Sen Zhang [1*] , Che-Jui Chang [1], Mubbasir K
 [*] Equal contribution,
 [2] Roblox,
 
-![Teaser](static\images\teaser.png)
+![Teaser](https://raw.githubusercontent.com/danruili/WordsToWorlds/refs/heads/website/static/images/teaser.png)
 
 Our work utilizes Large Language Models and generative tools to automate and refine digital storytelling.
 
@@ -15,9 +15,16 @@ Employing a top-down story drafting and bottom-up asset generation approach, thi
 Read full paper on [MIG 2024](https://dl.acm.org/doi/10.1145/3677388.3696321).
 For more technical details, please refer to our [project page](https://danruili.github.io/wordstoworlds/).
 
-## Code Repository
+## What we offer
 
-We are preparing the codebase for release. Once it is ready, we will update the repository with the code and data.
+The [full paper article page](https://dl.acm.org/doi/10.1145/3677388.3696321) has provided supplementary materials that includes the following:
+- A demo video
+- An appendix containing all LLM prompts used in this framework
+- The videos and storyscripts of the examples in the paper.
+
+We also provide a [Dev Report](https://github.com/danruili/WordsToWorlds/blob/main/doc/dev_report.md) that focuses on the technical details of the project. 
+
+We are preparing the codebase for release. Once it is ready, we will update the repository.
 
 
 ## Cite our work
